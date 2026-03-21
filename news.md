@@ -6,6 +6,11 @@
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
+[WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
+[1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
+[https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf)
+<img   alt="image" src="https://github.com/user-attachments/assets/8cd3b23d-79d4-4173-9860-45d9b8fff25c" />
 
 _NASA Glenn Research Center developed this collection of interactive simulation exercises to accompany our Beginners Guide to Aeronautics educational content_ @blackgirlscode [**READMORE**](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/bga-simulations/)
 <img  alt="image" src="https://github.com/user-attachments/assets/b7bc7e99-fc8f-439f-95b8-4032c8019132" />

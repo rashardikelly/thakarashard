@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-03-28 12:51:06 -0800
+date:   2026-04-13 12:51:06 -0800
 published: true
 ---
 
@@ -11,6 +11,81 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
+NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
+
+
+- `object` marker for backend viewing, video is often invisible from that view on @github
+<object data="https://cdn.jwplayer.com/players/x3LmXfKz-xS4RtpB7.html"></object> 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fb5c6b99-24f2-4488-8d5a-77bfe073008f" />
+
+NASA’s Artemis II Crew Comes Home (Official Broadcast)
+
+@la-county-isd thanks for all your assistance @cityoflosangeles - [rashard @nasa-pds](https://codepen.io/thakarashard/pen/azvjKdj) / @nasa-jpl at times @blackgirlscode
+
+<object data="https://www.youtube.com/embed/nfhDuOHMp0A?si=NU4e-HIFadyFqO0R"></object>
+
+
+
+[rashardmro.tumblr.com/post/813725011347128320](https://rashardmro.tumblr.com/post/813725011347128320) //// [ARTEMiS NEWS CONFERENCE](https://rashardmro.tumblr.com/post/813366066535366656/nasas-artemis-ii-daily-news-conference-april-8?is_related_post=1) aka [Nasa STANDUP _`Devops`_STYLE...  one of many conferences,its where we get instructions... I get why i started getting so badly sabotaged by flight day 7. i started missing live meetings half way through day 8. I would not be as annoyed at [The sign](https://www.youtube.com/watch?v=m08TxIsFTRI) if i was not being burned, sprayed, zapped and threatened 30ft away @nasa-jpl @whitehouse @amazon-science
+
+[@airbus @lmco_d34434e90460ce86eab35fa9e44a00d7_73f02760_1280](https://github.com/user-attachments/assets/339d8e7f-a487-4d70-867e-a625c7edf7a1)
+
+
+<img  alt="@la-county-isd @airbus HollyJMitchell HildaSolios @CityOfLosAngeles KARENBASS virtiserv" src="https://github.com/user-attachments/assets/dd1b7d47-b8bd-44dc-90ae-7db91972dd99" />
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0bbd9e5c-b70f-4836-9bad-4a133be00422" />
+
+
+[@la-county-isd @nasa-jpl @nasa-pds @cityoflosangeles --- Rashardlanasa.tumblr.com/](https://rashardlanasa.tumblr.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/58d33f49-2662-405a-bda7-ca22ceb74da4" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0777a5cc-a66c-41e1-968c-c4e955f0df76" />
+[ClassicRock - Work Playlist influec touched on](https://rashardmro.tumblr.com/post/813783801419415552/working-man) @blackgirlscode 
+
+<div class="tupperware" mardown="1">
+ 
+![tumblr_d752805f8c18d2b36df74ad635a2ef5b_a73670ce_1280](https://github.com/user-attachments/assets/ebfa3546-cc27-4bb8-bd1d-e708f0bba170)
+
+<img alt="tumblr_eb1cdf4c2d12b838e0ca24c0675ad44b_336c3e10_1280" src="https://github.com/user-attachments/assets/5dee963e-1c40-4053-aaa7-377395d0e919" />
+
+![tumblr_c4d154d934ed2b8de1000cc4adcc0cf1_f9b5652e_1280](https://github.com/user-attachments/assets/650d5d6b-4921-4623-a6ea-1fe7c2cf7304)
+
+</div>
+# Preparing for splashdown
+@usNavy @nasa-jpl @la-county-isd @cityofsandeigo
+[https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/](https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/)
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-parachute-sequence.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-groundtrack.png)
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-entry-descent-landing.png?resize=600,336)
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png](https://www.nasa.gov/wp-content/uploads/2026/04/artemis-ii-orion-lofted-entry-sequence.png) 
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨📰 <a href="https://twitter.com/hashtag/USNAVY?src=hash&amp;ref_src=twsrc%5Etfw">#USNAVY</a> UPDATE: USS John P. Murtha to support NASA&#39;s Artemis II mission<br><br>SAN DIEGO – Amphibious transport dock ship USS John P. Murtha (LPD 26) is slated to serve as the recovery ship for the Orion spacecraft and its crew upon their return from the historic Artemis II… <a href="https://t.co/eMUDr04rhP">pic.twitter.com/eMUDr04rhP</a></p>&mdash; U.S. Navy (@USNavy) <a href="https://twitter.com/USNavy/status/2041909011591713227?ref_src=twsrc%5Etfw">April 8, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+[rashardmro.tumblr.com/post/812731437693435904/live-coverage-artemis-ii-moon-mission-launch?is_related_post=1](https://rashardmro.tumblr.com/post/812731437693435904/live-coverage-artemis-ii-moon-mission-launch?is_related_post=1)
+![tumblr_3c1002edbf1f64b6e01e7c6922b6aa01_0ca3f440_1280](https://github.com/user-attachments/assets/46c4e349-5c43-43f5-aaef-0c055de094c5)
+
+
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026) @blackgirlscode @la-county-isd @emit-sds @nasa-jpl
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
 
 [tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
 ![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
@@ -22,6 +97,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 @la-county-isd @cityoflosangeles @whitehouse Sentate MEmber Butlerś site is blocked from the chinatown los angeles public library branch @blackgirlscode [https://www.tumblr.com/rashardmro/813174749613162496/deep-space-network-now?source=share](https://www.tumblr.com/rashardmro/813174749613162496/deep-space-network-now?source=share)
+
 <img alt="image" src="https://github.com/user-attachments/assets/de694115-5b0f-411f-b0a2-872ccd2d7079" />
 
 @nasa-jpl @cbs-news-data i sent [Chloe](https://www.cbsnews.com/video/chloe-bailey-on-bet-awards-upcoming-album/) this a few years back, not thinking she was latrice @la-county-isd @paramount-engineering but [she](https://www.paramountpressexpress.com/cbs-media-ventures/shows/the-drew-barrymore-show/releases/?view=103927-the-drew-barrymore-show-praise-this-star-chloe-bailey) was in the studio too and i was scared because she started waving like [Coral ](https://ra5hard.github.io/coral/) @blackgirlscode 
@@ -44,18 +120,18 @@ Expressionistic crime dramas of the 40s and 50s: tough cops and private eyes, fe
 
 @nasa-jpl @foratlanta @la-county-isd  @blackgirlscode 
 
+
+```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O-KDKBCPrwA?si=2h_WGFcPa0IzFz9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
-[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
-<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
-
-@nasa-jpl @foratlanta @la-county-isd 
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:hsIohllJMfkyIQgV78AVaQ/692871881822502912/v2" data-did="684458ab7048ea2b063aec29af15e57bc6a2398b"  ><a href="https://www.tumblr.com/nasaorion/692871881822502912/how-to-use-data-from-nasas-arow-tweets">https://www.tumblr.com/nasaorion/692871881822502912/how-to-use-data-from-nasas-arow-tweets</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
 
+```
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This account is officially archived. Follow <a href="https://twitter.com/NASAArtemis?ref_src=twsrc%5Etfw">@NASAArtemis</a>, <a href="https://twitter.com/NASA_Johnson?ref_src=twsrc%5Etfw">@NASA_Johnson</a>, and <a href="https://twitter.com/NASAKennedy?ref_src=twsrc%5Etfw">@NASAKennedy</a> for updated on the Orion spacecraft or visit us on the web at <a href="https://t.co/zz9NukZvsM">https://t.co/zz9NukZvsM</a> <a href="https://t.co/NLc77ZXTYO">pic.twitter.com/NLc77ZXTYO</a></p>&mdash; Orion Spacecraft (@NASA_Orion) <a href="https://twitter.com/NASA_Orion/status/1936129031121871215?ref_src=twsrc%5Etfw">June 20, 2025</a></blockquote> 
+```
 
 [NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
 Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
@@ -72,6 +148,7 @@ NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
 for completing the intermediate training:
 Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
+
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
 @blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
@@ -81,6 +158,7 @@ Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
 [@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
 
 ## Differences with @Shopify / [liquid @nasa-jpl @la-county-isd](https://shopify.dev/docs/api/liquid)
@@ -121,6 +199,7 @@ it pulls all the post with the [category](https://emmatheeng.github.io/projects/
  </div> 
 
 [4 LooP @nasa-jpl @la-county-isd `*gallery*` ](https://ra5hard.github.io/artemis2)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/79d4e91c-ab6a-40aa-bdd5-9a2c75a1638f" />
 
 
@@ -224,7 +303,9 @@ This Doodle celebrates the launch of Artemis II, the NASA mission that will send
 ## Dental HEalth Status
 _Today_ @nasa-jpl @blackgirlscode @la-county-isd 
 @CityOfLosAngeles @nasa-pds @nasa-giss @nasa @whitehouse @dhs-gov
+
 <img   alt="image" src="https://github.com/user-attachments/assets/5c8acab3-bbec-4b42-903c-2bf78bae0f22" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/f6bea4b9-0c56-44c8-804d-5d730f5d7dca" />
 
 _On Friday, January 16th, 2026 at 2:37 PM, rashardsdata@proton.me <rashardsdata@proton.me> wrote_:
@@ -638,6 +719,7 @@ abt ur work ethik `no dice` i swear i was not talking about you @blackgirlscode
 <img   alt="image" src="https://github.com/user-attachments/assets/b0b2328f-264e-445b-b50a-3584cda42512" />
 
 [GaurdianHeroes](https://dn711308.ca.archive.org/0/items/rashardmro-master/retroarch__2026_03_04__14_41_58.log)
+
 ```fortran
 RetroArch 1.22.2 (Git 440b49f)
 === Build =======================================

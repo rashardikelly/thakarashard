@@ -11,6 +11,316 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+<img alt="2026-04-22-00_00_2026-04-22-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d0a85fad-ecd5-4b0e-acb0-bb27d8603175" />
+
+
+<img alt="2026-04-22-00_00_2026-04-22-23_59_Sentinel-2_L2A_Highlight_Optimized_Natural_Color_" src="https://github.com/user-attachments/assets/81f7d4d6-e100-4ab8-b57f-ca1945333dce" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/9da0e9d7-e4df-40c4-9771-169d09dc3a4e" />
+
+@la-county-isd @longbeachinnovation Rex Richardson [MoitureIndex](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.77294&lng=-118.21469&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18xYo8vxmBxdylFnOGzC%2BgAN%2BxnI%2FR%2BpqwP23Z6xugOjImOiUgD4heEnFmJlBWJaLReb%2FQpTyFuBOv6BDiozErZnoLUpKRUCIbIIc4YRZlHVmt%2Fij%2BvEUo6&datasetId=S2_L2A_CDAS&fromTime=2026-04-22T00%3A00%3A00.000Z&toTime=2026-04-22T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/df0aad28-2d7b-4110-84fa-2f3aae8ed946" />
+
+@waymo-research @la-county-isd @tesla
+~ $ cat waymo.txt
+APR19
+550p waymo at 5th and spri g was inching past the crosswalk as police pursuit was intersecting... even if the car is safe its distracting for deivers and pedestria s
+
+@LACMTA @NASA-JPL I am victim to wifi jamming between Florence & compton .. on a cloud mobile c8. @blackgirlscode remember watts has those old radio towers,  anyway I'm in metrorail1169a @la-county-isd I get kicked off and cannot rejoin the net till I get past cj
+[https://www.tumblr.com/rashardmro](https://www.tumblr.com/rashardmro)
+[https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an @foratlanta @newshour @la-county-isd HOLLY_J_MiTCHELL KARENBASS @CityOfLosAngeles](https://rashardmro.tumblr.com/post/814295608839012352/the-nasa-psyche-mission-first-journey-to-an)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8200fb2e-c84b-44a9-b41b-ed5a1e1cc80f" />
+
+
+@nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
+@amtrack @salesforce @nasa-pds @LACMTA @dhs-gov @Amtrak-App
+
+@protonmail _RA5HARD@PROTON.ME_ @nasa-jpl our mail was hijacked @doug-newman-nasa over @blackgirlscode and whoever chloe bailey is engaged to or having sex with @whitehouse  @nasa-pds @la-county-isd 
+
+```
+This account has been suspended due to a potential policy violation.
+ If you believe this is in error,
+please contact us at https://proton.me/support/appeal-abuse.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/8b01ddbe-5752-4a5d-ae79-43ba5e54758b" />
+
+@google [@OfficeDev @Siglud]() [@google MessageLong - Link](https://mail.google.com/mail/u/0/#inbox/FMfcgzQgLXlBxxZPJkzSRfGMbFGQJgjr) 
+`Fw: Terminal Text media@amtrak.com
+from you union station wifi AmtrakBoard@amtrak.com
+`
+Subject: Terminal Text media@amtrak.com from you union station wifi AmtrakBoard@amtrak.com
+
+```shell
+$ curl @whitehouse .gov  
+301 Moved Permanently
+```
+
+nginx ~ $ nslookup -type=mx amtrack.com Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: *** Can't find amtrack.com: No answer Authoritative answers can be found from: amtrack.com origin = ns47.domaincontrol.com mail addr = dns.jomax.net serial = 2025120906 refresh = 28800 retry = 7200 expire = 604800 minimum = 600 ~ $ nslookup -type=ns amtrack.com Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: amtrack.com nameserver = ns48.domaincontrol.com. amtrack.com nameserver = ns47.domaincontrol.com. Authoritative answers can be found from: ~ $ nslookup -type=ns whitehouse.gov Server: 8.8.8.8 Address: 8.8.8.8#53 Non-authoritative answer: whitehouse.gov nameserver = ernest.ns.cloudflare.com. whitehouse.gov nameserver = wally.ns.cloudflare.com. Authoritative answers can be found from: ~ $ 5
+
+Get Outlook for Android
+<img  alt="image https://media.amtrak.com/2024/12/a-statement-by-amtrak-ceo-stephen-j-gardner-on-senate-confirmation-of-members-of-the-amtrak-board-of-directors/" src="https://github.com/user-attachments/assets/ff62b96c-16b8-4915-8c8b-098784a49966" />
+
+
+
+```html
+
+~$ curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
+
+~$ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
+
+
+Gmail	Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+Terminal transcript cityhall cityofla guest
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>	Mon, Apr 20, 2026 at 5:04 AM
+To: "dsnnow@jpl.nasa.gov" <dsnnow@jpl.nasa.gov>, "knxnews@cbsradio.com" <knxnews@cbsradio.com>, "ksc-newsroom@mail.nasa.gov" <ksc-newsroom@mail.nasa.gov>, "news.tips@abc.com" <news.tips@abc.com>, "keishaforgovernor@gmail.com" <keishaforgovernor@gmail.com>, "letschat@virtiserv.com" <letschat@virtiserv.com>, "jasmine.crockett@mail.house.gov" <jasmine.crockett@mail.house.gov>, "report@cisa.gov" <report@cisa.gov>, "benefits@howard.edu" <benefits@howard.edu>, councilmember.yaroslavsky@lacity.org, Karen.youngman@azdcs.gov, "bos@sfgov.org" <bos@sfgov.org>, "councilmember.harris-dawson@lacity.org" <councilmember.harris-dawson@lacity.org>, "cityatty.help@lacity.org" <cityatty.help@lacity.org>, "operations@wearebgc.org" <operations@wearebgc.org>, "office@lafirstumc.org" <office@lafirstumc.org>, "douglas.j.newman@nasa.gov" <douglas.j.newman@nasa.gov>, "Rotaryclubofsouthpasadena@gmail.com" <Rotaryclubofsouthpasadena@gmail.com>, "usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil" <usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil>, "rtxrecruiting@rtx.com" <rtxrecruiting@rtx.com>, "publicaffairs.spl@usace.army.mil" <publicaffairs.spl@usace.army.mil>, "uso@asf.alaska.edu" <uso@asf.alaska.edu>, "atl311@atlantaga.gov" <atl311@atlantaga.gov>, "development@sfcla.org" <development@sfcla.org>, "press@google.com" <press@google.com>, "Brennan, Jennifer L. (GSFC-423.0)[ADNET SYSTEMS INC]" <jennifer.l.brennan@nasa.gov>, "viewermail@newshour.org" <viewermail@newshour.org>, "FirstDistrict@bos.lacounty.gov" <firstdistrict@bos.lacounty.gov>, "contact.lapdonline@gmail.com" <contact.lapdonline@gmail.com>, Gavin Newsom <gavin.newsom@gov.ca.gov>, "Secretary.Weber@sos.ca.gov" <Secretary.Weber@sos.ca.gov>, "info@scisat.ca" <info@scisat.ca>, "info@moriassociates.com" <info@moriassociates.com>, "isee@nbclosangeles.com" <isee@nbclosangeles.com>
+  263  cat types.sh | grep nslookup >> nsquery.sh
+  264  bash -x types.sh                                 265  bash nsquery.sh |grep google
+  266  bash nsquery.sh |grep ppho
+  267  bash nsquery.sh |grep aka
+  268  bash nsquery.sh |grep oudf
+  269  history
+~ $Non-authoritative answer: *** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from: virtiserv.com
+        origin = ns29.domaincontrol.com mail addr = dns.jomax.net serial = 2024102401 refresh = 28800 retry = 7200 expire = 604800 minimum = 600
+
+~ $ bash nsquery.sh |grep google
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns4.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns3.google.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com. @development@sfcla.org @douglas.j.newman@nasa.gov @letschat@virtiserv.com @usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil @press@google.com can u guys discuss how this is legal @report@cisa.gov @atl311@atlantaga.gov @Brennan, Jennifer L. (GSFC-423.0)[ADNET SYSTEMS INC] @viewermail@newshour.org @FirstDistrict@bos.lacounty.gov cityhall? @contact.lapdonline@gmail.com @Gavin Newsom liar💯💯💯🖕🖕🤕❤️‍🩹💔 @Secretary.Weber@sos.ca.gov what kind of shit u guys running ? it's just a fucking brothel I hate it here. it's so gross and my tooth flaked out @keishaforgovernor@gmail.com @info@scisat.ca @info@moriassociates.com what kind of weird cult shit you guys wrapped up in? @knxnews@cbsradio.com @isee@nbclosangeles.com 
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns3.google.com.
+google.com nameserver = ns4.google.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com.
+google.com mail exchanger = 10 smtp.google.com.
+google.com nameserver = ns3.google.com.
+google.com nameserver = ns1.google.com.
+google.com nameserver = ns2.google.com.
+google.com nameserver = ns4.google.com.
+fbi.gov nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov nameserver = ns-cloud-e1.googledomains.com.
+lacity.gov mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 1 aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 3 alt4.aspmx.l.google.com. lapl.org mail exchanger = 2 alt2.aspmx.l.google.com. lapl.org mail exchanger = 2 alt2.aspmx.l.google.com. lapl.org mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org mail exchanger = 2 alt1.aspmx.l.google.com. lapl.org mail exchanger = 1 aspmx.l.google.com.lapl.org mail exchanger = 3 alt4.aspmx.l.google.com. ~ $ bash nsquery.sh |grep ppho jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com. longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com. commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com.
+longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com.
+longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com.
+level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxa-003fa601.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com.
+lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com.
+fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com.
+commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxb-0020b901.gslb.pphosted.com. jpl.nasa.gov mail exchanger = 20 mxa-0020b901.gslb.pphosted.com. usps.com mail exchanger = 10 mxb-0038fd02.gslb.gpphosted.com. usps.com mail exchanger = 10 mxa-0038fd02.gslb.gpphosted.com. longbeach.gov mail exchanger = 10 mxb-00539a01.gslb.pphosted.com. longbeach.gov mail exchanger = 10 mxa-00539a01.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com.
+georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxa-003fd101.gslb.pphosted.com. georgia.gov mail exchanger = 10 mxb-003fd101.gslb.pphosted.com. level3.net mail exchanger = 10 mx0a-007e5801.pphosted.com. level3.net mail exchanger = 10 mx0b-007e5801.pphosted.com. fultoncountyga.gov mail exchanger = 10 mxb-0032a901.gslb.pphosted.com.
+fultoncountyga.gov mail exchanger = 10 mxa-0032a901.gslb.pphosted.com. atlantaga.gov mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+atlantaga.gov mail exchanger = 0 mxb-003fa601.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxb-00004003.gslb.pphosted.com. wellsfargo.com mail exchanger = 10 mxa-00004003.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxb-002da105.gslb.pphosted.com. lacounty.gov mail exchanger = 10 mxa-002da105.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxb-009ae101.gslb.pphosted.com. fire.ca.gov mail exchanger = 10 mxa-009ae101.gslb.pphosted.com. commonspirit.org mail exchanger = 20 mx0a-00116001.pphosted.com.
+commonspirit.org mail exchanger = 20 mx0b-00116001.pphosted.com. dignityhealth.org mail exchanger = 10 mxa-00116001.gslb.pphosted.com. dignityhealth.org mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+~ $ bash nsquery.sh |grep aka
+jpl.nasa.gov nameserver = a2-67.akam.net. jpl.nasa.gov nameserver = a14-67.akam.net. jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. jpl.nasa.gov nameserver = a8-65.akam.net. jpl.nasa.gov nameserver = a11-67.akam.net.
+wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net mail addr = hostmaster.akamai.com
+nasa.gov nameserver = a5-66.akam.net. nasa.gov nameserver = a1-32.akam.net.
+nasa.gov nameserver = a14-67.akam.net.
+nasa.gov nameserver = a8-66.akam.net.
+nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a12-64.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a13-65.akam.net. cia.gov nameserver = a3-64.akam.net. cia.gov nameserver = a12-65.akam.net.
+cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a1-22.akam.net. polb.com nameserver = a5-67.akam.net.
+polb.com nameserver = a1-172.akam.net.
+polb.com nameserver = a22-67.akam.net. polb.com nameserver = a9-67.akam.net. polb.com nameserver = a14-64.akam.net. polb.com nameserver = a28-65.akam.net. wellsfargo.com nameserver = a24-66.akam.net.
+wellsfargo.com nameserver = a1-189.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net. state.gov nameserver = a1-63.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a14-64.akam.net. state.gov nameserver = a8-67.akam.net. state.gov nameserver = a26-65.akam.net. state.gov nameserver = a9-64.akam.net. jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a1-91.akam.net. jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net. jpl.nasa.gov nameserver = a11-67.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net. dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net origin = n0dsca.akamaiedge.net mail addr = hostmaster.akamai.com nasa.gov nameserver = a5-66.akam.net. nasa.gov nameserver = a14-67.akam.net.
+nasa.gov nameserver = a12-64.akam.net. nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a8-66.akam.net. nasa.gov nameserver = a1-32.akam.net. cia.gov nameserver = a13-65.akam.net. cia.gov nameserver = a12-65.akam.net. cia.gov nameserver = a16-67.akam.net. cia.gov nameserver = a3-64.akam.net. cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a1-22.akam.net. polb.com nameserver = a5-67.akam.net. polb.com nameserver = a9-67.akam.net.
+polb.com nameserver = a28-65.akam.net. polb.com nameserver = a1-172.akam.net. polb.com nameserver = a22-67.akam.net.
+polb.com nameserver = a14-64.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net. wellsfargo.com nameserver = a24-66.akam.net. wellsfargo.com nameserver = a1-189.akam.net.
+state.gov nameserver = a8-67.akam.net. state.gov nameserver = a1-63.akam.net. state.gov nameserver = a9-64.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a14-64.akam.net. state.gov nameserver = a26-65.akam.net.
+jpl.nasa.gov nameserver = a14-67.akam.net.
+jpl.nasa.gov nameserver = a7-65.akam.net. jpl.nasa.gov nameserver = a1-91.akam.net.
+jpl.nasa.gov nameserver = a2-67.akam.net.
+jpl.nasa.gov nameserver = a8-65.akam.net.
+jpl.nasa.gov nameserver = a11-67.akam.net. wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com wildcard.usps.com.edgekey.net canonical name = e6531.dsca.akamaiedge.net.
+dsca.akamaiedge.net
+        origin = n0dsca.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+nasa.gov nameserver = a12-64.akam.net.
+nasa.gov nameserver = a9-64.akam.net.
+nasa.gov nameserver = a8-66.akam.net.
+nasa.gov nameserver = a14-67.akam.net. nasa.gov nameserver = a1-32.akam.net.
+nasa.gov nameserver = a5-66.akam.net. cia.gov nameserver = a1-22.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a12-65.akam.net.
+cia.gov nameserver = a13-65.akam.net.
+cia.gov nameserver = a22-66.akam.net. cia.gov nameserver = a3-64.akam.net. polb.com nameserver = a9-67.akam.net.
+polb.com nameserver = a1-172.akam.net.
+polb.com nameserver = a5-67.akam.net. polb.com nameserver = a28-65.akam.net.
+polb.com nameserver = a22-67.akam.net.
+polb.com nameserver = a14-64.akam.net.
+wellsfargo.com nameserver = a2-64.akam.net.
+wellsfargo.com nameserver = a1-189.akam.net. wellsfargo.com nameserver = a24-66.akam.net.
+state.gov nameserver = a3-66.akam.net.
+state.gov nameserver = a8-67.akam.net.
+state.gov nameserver = a9-64.akam.net. state.gov nameserver = a14-64.akam.net.
+state.gov nameserver = a26-65.akam.net.
+state.gov nameserver = a1-63.akam.net.
+~ $ bash nsquery.sh |grep oudf lacourt.ca.gov nameserver = keaton.ns.cloudflare.com.
+lacourt.ca.gov nameserver = kelly.ns.cloudflare.com.
+earthlink.net nameserver = carl.ns.cloudflare.com.
+earthlink.net nameserver = rihana.ns.cloudflare.com.
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com
+commerce.gov nameserver = cecelia.ns.cloudflare.com.
+commerce.gov nameserver = max.ns.cloudflare.com.
+fire.ca.gov nameserver = keaton.ns.cloudflare.com.
+fir
+
+
+
+
+On Mon, Apr 20, 2026, 1:46 AM Rashard Iman Kelly <holetoanotheruniverse40@gmail.com> wrote:
+sted.com.
+level3.net      mail exchanger = 10 mx0a-007e5801.ppho
+sted.com.
++ nslookup -type=ns level3.net                       
++ nslookup -type=ns fultoncountyga.gov
++ nslookup -type=mx fultoncountyga.gov
+fultoncountyga.gov      mail exchanger = 10 mxa-0032a9 @keishaforgovernor@gmail.com where is my kid?
+01.gslb.pphosted.com.                                
+fultoncountyga.gov      mail exchanger = 10 mxb-0032a9 @letschat@virtiserv.com @jasmine.crockett@mail.house.gov @report@cisa.gov 
+01.gslb.pphosted.com.
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx whitehouse.gov                   
++ nslookup -type=mx metro.net
++ nslookup -type=ns metro.net                        
++ nslookup -type=ns lacounty.gov
++ nslookup -type=mx lacounty.gov                     
+lacounty.gov    mail exchanger = 10 mxa-002da105.gslb.
+pphosted.com.                                        
+lacounty.gov    mail exchanger = 10 mxb-002da105.gslb.
+pphosted.com.                                        
++ nslookup -type=ns commerce.gov                     
++ nslookup -type=mx commerce.gov
++ nslookup -type=ns polb.com                         
++ nslookup -type=mx polb.com                         
++ nslookup -type=mx wellsfargo.com
+wellsfargo.com  mail exchanger = 10 mxa-00004003.gslb.
+pphosted.com.
+wellsfargo.com  mail exchanger = 10 mxb-00004003.gslb.
+pphosted.com.                                        
++ nslookup -type=ns wellsfargo.com                   
++ nslookup -type=ns musiccenter.org                  
++ nslookup -type=mx musiccenter.org                  
++ nslookup -type=ns laopera.org                      
++ nslookup -type=
+
+[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-117.1,32.6,6.7z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@-117.1,32.6,6.7z)
+
+[https://firms.modaps.eosdis.nasa.gov/map/#m:experimental;d:2026-04-15..2026-04-16,72hrs;l:fires_goes_Him9,fires_goes_Met10,fires_goes_Met12,fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,eis_fire_lf_perimeter_nrt,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,sta_detections,sta_mask,steel_plants,country-outline,hlss30-custom,viirs_m11,earth;@-117.1,32.6,6.7z](https://firms.modaps.eosdis.nasa.gov/map/#m:experimental;d:2026-04-15..2026-04-16,72hrs;l:fires_goes_Him9,fires_goes_Met10,fires_goes_Met12,fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,eis_fire_lf_perimeter_nrt,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,sta_detections,sta_mask,steel_plants,country-outline,hlss30-custom,viirs_m11,earth;@-117.1,32.6,6.7z)
+
+[https://worldview.earthdata.nasa.gov/?v=-83.7377603125,32.7708885859375,-82.8061196875,34.5396874140625&e=EONET_19410,2026-04-09&efs=true&efa=false&efd=2025-12-10,2026-04-09&efc=dustHaze,manmade,seaLakeIce,severeStorms,snow,volcanoes,waterColor,floods,wildfires&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden,opacity=0.67),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,OMPS_Aerosol_Index(hidden),OMPS_Aerosol_Index_PyroCumuloNimbus(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_NOAA20_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1(hidden),MODIS_Aqua_Thermal_Anomalies_All(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_All(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Combined_Thermal_Anomalies_All(hidden),MODIS_Combined_Thermal_Anomalies_Day(hidden),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_Bands721(hidden),MODIS_Terra_CorrectedReflectance_TrueColor,BlueMarble_NextGeneration(hidden),Land_Water_Map(hidden)&lg=true&s=-118.2433,34.0522&t=2026-04-09-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-83.7377603125,32.7708885859375,-82.8061196875,34.5396874140625&e=EONET_19410,2026-04-09&efs=true&efa=false&efd=2025-12-10,2026-04-09&efc=dustHaze,manmade,seaLakeIce,severeStorms,snow,volcanoes,waterColor,floods,wildfires&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden,opacity=0.67),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,OMPS_Aerosol_Index(hidden),OMPS_Aerosol_Index_PyroCumuloNimbus(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_380(hidden),OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380(hidden),VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_NOAA20_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1(hidden),MODIS_Aqua_Thermal_Anomalies_All(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_All(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Combined_Thermal_Anomalies_All(hidden),MODIS_Combined_Thermal_Anomalies_Day(hidden),OPERA_L3_DIST-ALERT-HLS_Color_Index(hidden,disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA21_CorrectedReflectance_BandsM11-I2-I1(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_Bands721(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_Bands721(hidden),MODIS_Terra_CorrectedReflectance_TrueColor,BlueMarble_NextGeneration(hidden),Land_Water_Map(hidden)&lg=true&s=-118.2433,34.0522&t=2026-04-09-T00%3A00%3A00Z)
+
+virtiserv latrice @blackgirlscode @nasa-pds
+ [https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html](https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html)
+
 Artemis II [Astronauts](https://rashardmro.tumblr.com/post/812731741445963776/nasas-artemis-ii-live-views-from-orion?is_related_post=1) Make First Public Remarks Since Returning to Earth
 NASA held a ceremony at Johnson Space Center in Houston to welcome home the crew of Artemis II after its 10-day mission around the moon. The astronauts gave their first public remarks since splashing down off the coast of San Diego, California. NASA officials, lawmakers, and others also spoke to congratulate the crew and encourage further space exploration [@nasa-jpl https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288](https://www.c-span.org/program/news-conference/artemis-ii-astronauts-make-first-public-remarks-since-returning-to-earth/677288)
 

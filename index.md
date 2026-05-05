@@ -11,6 +11,28 @@ published: true
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+[https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trump-oval-office](https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trump-oval-office) 
+
+![https://media.cnn.com/api/v1/images/stellar/prod/2026-04-29t184009z-1252764786-rc22zka2efb0-rtrmadp-3-usa-trumpa.JPG?c=original&q=w_860,c_fill/f_avif](https://media.cnn.com/api/v1/images/stellar/prod/2026-04-29t184009z-1252764786-rc22zka2efb0-rtrmadp-3-usa-trumpa.JPG?c=original&q=w_860,c_fill/f_avif)
+
+[en.wikipedia.org/wiki/Artemis_II](https://en.wikipedia.org/wiki/Artemis_II) 
+
+<img  alt="tumblr_997e9d4d0cca389b48abe2e16e04f8d5_44b061d7_2048" src="https://github.com/user-attachments/assets/1a02ff26-7c77-41f1-a6a5-c4b50131af67" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A145502026&color=%234ec952&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bonobo" title="bonobo" target="_blank" style="color: #cccccc; text-decoration: none;">bonobo</a> · <a href="https://soundcloud.com/bonobo/essential-mix" title="Essential Mix - BBC Radio 1" target="_blank" style="color: #cccccc; text-decoration: none;">Essential Mix - BBC Radio 1</a></div>
+
+# Georgia
+
+<img   alt="tumblr_67cb6b993e4f322145425f004b92a1f8_92ff9b3b_2048" src="https://github.com/user-attachments/assets/22c9c638-126d-4393-93fb-3023d449cb11" />
+
+
+# LongBeach
+
+<img  alt="tumblr_0ced66625e808aecd19e0a0e4394253b_aee5c644_2048" src="https://github.com/user-attachments/assets/67a7e7e3-4e6d-494b-919a-b0ad6b7b5ad7" />
+
+
+
 <img alt="2026-04-22-00_00_2026-04-22-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d0a85fad-ecd5-4b0e-acb0-bb27d8603175" />
 
 

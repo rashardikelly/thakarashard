@@ -1,16 +1,654 @@
 ---
 layout: default
 title:  "ShaadiThakaRashardiMAn"
-date:   2026-04-13 12:51:06 -0800
+date:   2026-06-09 15:30:06 -0800
 published: true
 ---
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
 
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+# KarenBass Cameos at [B.E.T](bet.com) Awards
+@blackgirlscode @whitehouse @cityoflosangeles @nasa-jpl 
+
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4" >](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+@newshour @foxnews @nbcnews @cbs-news-data /[Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/Karen%20Bassett%20BET%20awardsscreen-20260628-163331.mp4)
+
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1716624378&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/bubblegumpop-978449604" title="BubbleGumPOp" target="_blank" style="color: #cccccc; text-decoration: none;">BubbleGumPOp</a> · <a href="https://soundcloud.com/bubblegumpop-978449604/sets/startingover" title="#StartingOVer" target="_blank" style="color: #cccccc; text-decoration: none;">#StartingOVer</a></div>
+
+<a href="thakarashard.github.io"  itemtype="https://schema.org/EducationalOrganization" itemprop="name">
+  
+<svg itemprop="logo" class="gradient-text" id="headerMargins" width="50%" height="50%"
+  viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+   
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D"/></svg>
+
+</a>
+
+[virtiserv.github.io](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="@nasa-jpl @la-county-isd @cityoflosangeles @stateofcalifornia @nasa-giss @usatoday @newshour @United States Of America" />
+
+
+
+
+<pre>
+
+                      ______
+                     /|      ;
+      HAPPY        ,'/       |   _______.._    __          _,.-''--,
+              _,-'`.'        | /|        | |/;'  |      .'` /      |
+             |::_.'  /|      || .-,    .-| |:|   |     /  ::|  ,---'
+           ,_.-'  ._'_|      '-/ /|    |:| |_'   |     | _ _|  |__
+       _,-'|                   |':|    | |  _.   |  _.-'` |       |
+     |`  ::|                   || |    | | |.|   | |  _,._|_      |
+     |    :, _____            _;| |    | | |:|   |.-:''_`'. |   .-'
+     |  _,-'`  _.-'          |.'._|____|_|_|_|__ | / .' `\ \|   |
+     |_:.___,-'  |           |/|                `;:| |:. | ;|   |
+           |:::  |           | |'                |:\  '-'  /|   |
+           |:    |           |_.__________.......;__:..__.'-'.--------.
+           |___._|___...,---='. .-----.-'""";-;"'   ' '\'.::/        /
+          ."" ""|       |     |:'     |     |  \        \::/        /
+          |     |       |     ||      |     |   `.       `'        /
+          |     |       |     ||      |     |     \               ,
+          |     |       |     |;      |     |\  :::`.            /
+   ___.,__|_ :::|       |     '/      |     | \  ::::\          /
+ |`'--.-''  | ::|       |             |     |_|_____  |        |
+ |    |      \_,'       |             |             `.'        |
+ |    |                 |             |              ||        |
+ ;    |                 |             |              ||        |
+ '    ;                ;'             |              |;        |
+  \ :::\              /::\           /|              ||        |mx||/
+||/'. ::;       _\\||-''--`\|.____,.'-\\|..\|/"""----""''''\\||/''||
+  \\|`'--`'---'`  -.___||/                     --''.___,|/
+
+</pre>
+
+[<video controls src="https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/000%20NASA%20Earth%20data%20assets%20for%20LA%20county%20Supervisor%20Mitchell%20to%20review%20Hilda%20solisdata%20center%20overviewscreen-ViRTiSERV_20260702-101210.mp4" />](https://ia800409.us.archive.org/8/items/vid-20260411-163609-170/000%20NASA%20Earth%20data%20assets%20for%20LA%20county%20Supervisor%20Mitchell%20to%20review%20Hilda%20solisdata%20center%20overviewscreen-ViRTiSERV_20260702-101210.mp4)
+
+
+[https://www.nasa.gov/missions/artemis-ii/arow @nbcnews @usatoday](https://www.nasa.gov/missions/artemis-ii/arow/)
+<img  alt="image" src="https://github.com/user-attachments/assets/aa71d6b0-9a58-412c-9e28-f83ccd0e601f" />
+
+@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf) /// [download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [tar.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
+
+
+
+<div class="tupperware" markdown="1">
+
+<video controls  width="auto" height="400">
+   <source src="https://ia801001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/VID_20250721_114248.mp4" type="video/mp4" />
+
+
+</video>
+
+<video controls  width="auto" height="400">
+   <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+  <source src="https://ia601001.us.archive.org/20/items/screen-recording-2025-07-20-141416-California_LinuX_rashard-ci-cd_DOXXED/Marble_fire_Cal_fire_REPKAREN_GAVin_COOUTNyi.mp4" type="video/mp4" />
+
+
+</video>
+
+</div>
+@nasa-jpl @blackgirlscode im burning now i made it like a 3rd through gucci new tape @Cityoflosangeles @nasa-pds healing [@StateOfCalifornia another firepage @la-county-isd HOLLY J Mitchell](https://thakarashard.github.io/rashardmro/lafire)
+   
+
+<h2 id="perseverance-rovers-descent-and-touchdown-on-mars"><a href="https://svs.gsfc.nasa.gov/31250">Perseverance Rover’s Descent and Touchdown on Mars</a></h2>
+
+<h3 id="perseverance-rovers-descent-and-touchdown-on-mars-onboard-camera-views"><a href="https://science.nasa.gov/wp-content/uploads/2024/03/45703_JPL-20210222-M2020f-0001-Perseverance_Rovers_Descent_and_Touchdown_on_Mars-1.mp4">Perseverance Rover’s Descent and Touchdown on Mars: Onboard Camera Views</a></h3>
+
+<blockquote>
+<p>NASA’s Mars 2020 Perseverance mission captured thrilling footage of its rover landing in Mars’ Jezero Crater on Feb. 18, 2021. The real footage in this video was captured by several cameras that are part of the rover’s entry, descent, and landing suite. The views include a camera looking down from the spacecraft’s descent stage (a kind of rocket-powered jet pack that helps fly the rover to its landing site), a camera on the rover looking up at the descent stage, a camera on the top of the aeroshell (a capsule protecting the rover) looking up at that parachute, and a camera on the bottom of the rover looking down at the Martian surface.</p>
+</blockquote>
+
+<video controls="" width="100%" height="auto" poster="https://www.nasa.gov/wp-content/uploads/2021/06/pia24542-perseverances-selfie-with-ingenuity-1041.jpg">
+
+<source src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4" type="video/mp4" />
+        Download the
+        or
+<a href="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031250/Perseverance-landing-1080p.mp4">MP4</a>
+        video.
+        
+</video>
+
+<a href="https://science.nasa.gov/wp-content/uploads/2024/03/45732_nasa_perseverance_parachute_deployment.mp4">15 Second Clip of Parachute Deployment(MP4) (18.86 MB)</a>
+
+
+
+[Spirit of Discernment `SomeOtherTime` @nasa-pds @stateofcalifornia @cityoflosangeles - miss jill `scott`](https://youtu.be/P1K-uC-ZQso?is=8LQ8ZHTm8IU1Dzr2)
+
+
+
+<a href="thakarashard.github.io"  itemtype="https://schema.org/EducationalOrganization" itemprop="name">
+  
+<svg itemprop="logo" class="gradient-text" id="headerMargins" width="50%" height="50%"
+  viewBox="0 0 508.204 141.732" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+   
+<path d="M91.991 104.699c1.576 5.961 4.119 8.266 8.613 8.266 4.659 0 7.102-2.799 7.102-8.266V3.2h29.184v101.499c0 14.307-1.856 20.506-9.11 27.762-5.228 5.229-14.871 9.271-27.047 9.271-9.837 0-19.25-3.256-25.253-9.27-5.263-5.273-8.154-10.689-12.672-27.764L44.9 37.033c-1.577-5.961-4.119-8.265-8.613-8.265-4.66 0-7.103 2.798-7.103 8.265v101.5H0v-101.5C0 22.727 1.857 16.527 9.111 9.271 14.337 4.044 23.981 0 36.158 0c9.837 0 19.25 3.257 25.253 9.27 5.263 5.273 8.154 10.689 12.672 27.764zm386.047 33.834L444.334 33.096c-.372-1.164-.723-2.152-1.263-2.811-.926-1.127-2.207-1.719-3.931-1.719-1.723 0-3.004.592-3.931 1.719-.539.658-.891 1.646-1.262 2.811l-33.703 105.437h-30.167l36.815-115.177c1.918-6 4.66-11.094 8.139-14.488C421.002 3.047 428.038 0 439.141 0s18.14 3.047 24.109 8.867c3.479 3.395 6.221 8.488 8.14 14.488l36.814 115.177zm-149.16 0c19.12 0 28.446-4.062 35.814-11.389 8.153-8.105 12.053-16.973 12.053-30.213 0-11.699-4.283-22.535-10.804-29.019-8.526-8.479-19.116-11.151-36.384-11.151l-24.187-.001c-9.242 0-12.925-1.117-15.839-3.98-2.001-1.964-2.939-4.885-2.939-8.328 0-3.559.857-7.074 3.303-9.475 2.171-2.131 5.13-3.109 10.816-3.109h69.903V3.2H306.05c-19.12 0-28.445 4.063-35.814 11.389-8.152 8.105-12.053 16.972-12.053 30.212 0 11.701 4.283 22.536 10.804 29.019 8.527 8.479 19.116 11.152 36.384 11.152l24.188.002c9.242 0 12.925 1.115 15.839 3.979 2.001 1.965 2.939 4.885 2.939 8.328 0 3.559-.857 7.074-3.302 9.475-2.172 2.131-5.131 3.109-10.817 3.109h-72.094l-27.651-86.509c-1.918-6-4.66-11.094-8.139-14.488C220.363 3.047 213.327 0 202.224 0s-18.14 3.047-24.108 8.867c-3.48 3.395-6.221 8.488-8.139 14.488l-36.815 115.177h30.166l33.704-105.437c.372-1.164.723-2.152 1.263-2.811.926-1.127 2.208-1.719 3.931-1.719s3.004.592 3.931 1.719c.54.658.891 1.646 1.262 2.811l33.704 105.437z" fill="#DB362D"/></svg>
+
+</a>
+
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit @NBCNEWS ](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) [@hOWARD-uNIVERSITY-Web-Services @nasa-pds ~ > LANAhaRRIS](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) // [@foratlanta](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" />](https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4)
+
+[<video controls src="https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm" />](https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8358d59d-94c8-4530-8a99-fb52662edb1a" />
+[SCREENSHARE https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm](https://archive.org/download/vid-20260411-163609-170/0000STREAM%20%E2%80%93%20Satellite%20Monitoring%20of%20Water%20Quality%20for%20Inland%20and%20Coastal%20Waters%20Using%20Machine%20LearningScreen%20recording%202026-07-01%2011.15.12%20AM.webm)
+
+
+@esa There is an article about Sentinel1 going offline . . . OPERA Dynamic Surface Water Extent from Sentinel-1 (Version 1) was just covered in the other class is the dataproduct getting discontinued ? @nasa-pds
+[esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Time_to_say_goodbye_to_Sentinel-1A)
+ @nasa-openscapes @podaac @nasa-jpl . . @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/f1584c40-e70e-49ce-9e98-8f7a0f44e717" />
+
+
+Reminder! Your Earthdata Webinar is Today
+Thank you for registering for [STREAM – Satellite Monitoring of Water Quality](https://ladsweb.modaps.eosdis.nasa.gov/stream/) for Inland and Coastal Waters Using Machine Learning.
+
+Join us as we explore how the models behind the Satellite-based analysis Tool for Rapid Evaluation of Aquatic environMents (STREAM) work, what the data looks like, and how to use STREAM to access it.
+
+Date: July 1, 2026
+Time: 2:00 pm ET
+
+<img  alt="image" src="https://github.com/user-attachments/assets/203e84df-fe89-486c-a299-b7e098077d64" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0176f20c-1f9f-4f34-ab2a-89eeaceaf1bd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c9935d9-9a09-4f0a-b3a7-1b6abd4cd72d" />
+
+<img   alt=" @nbcnews @usatoday @newshour @nasa-jpl @la-county-isd " src="https://github.com/user-attachments/assets/f19655ee-0ee3-4277-bc1a-952181851009" />
+
+
+
+@emit-sds @nasa-giss
+@nasa-openscapes @howard-university-web-services @blackgirlscode @cityoflosangeles 
+[https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web](https://teams.microsoft.com/v2/?meetingjoin=true#/meet/243001884603508?p=BuSuimKs4b5RayYfDp&anon=true&lightExperience=true&correlationId=ff7523ba-787a-41bf-9661-a37dc1eb13f4&anon=true&deeplinkId=06b9970a-fd04-46f6-8580-f00807378d35&launchAgent=join_launcher_web) ///////// [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13209686.60/4627701.60&layers=aqv_chla_20260611_sentinel:1.00:0.00:30.00:default)
+
+```html
+Error: <html>
+<head><title>401 Authorization Required</title></head>
+<body>
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5f8c1dc-90ca-4092-bea3-01126f79e905" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/dc79359d-1698-4d4c-830a-07e216733b82" />
+
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit @NBCNEWS ](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm) [@hOWARD-uNIVERSITY-Web-Services @nasa-pds ~ > LANAhaRRIS](https://voyageatl.com/interview/meet-lana-harris-of-atlanta/) // [@foratlanta](https://www.prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+
+[<video controls poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg" src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" />](https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4)
+
+
+[bluerobot.com/web/css/fouc.asp](https://web.archive.org/web/20050226050609/http://www.bluerobot.com/web/css/fouc.asp) /// [bluerobot.com/web/layouts/default.asp](https://web.archive.org/web/20050302034028/http://bluerobot.com/web/layouts/default.asp)
++ latest [thenoodleincident.com/tutorials/box_lesson/boxes.html](https://www.thenoodleincident.com/tutorials/box_lesson/boxes.html) + [vintage - thenoodleincident.com/](https://web.archive.org/web/20030202073354/http://thenoodleincident.com/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4d60cf00-bfff-4a73-9c05-3769fc839522" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/036ea23e-a4dd-41f5-a383-a5b68666a2f5" />
+
+[virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8bbce55-4e6a-4240-bb72-beace71d3848" />
+
+
+<div class="tupperware">
+    
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+</div>
+
+<img alt="image" src="https://github.com/user-attachments/assets/b3343d94-0501-430c-982c-1c1f20587b0c" />
+
+
+[thenoodleincident.com/tutorials/box_lesson/](https://www.thenoodleincident.com/tutorials/box_lesson/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2c23c2fd-94e3-4c30-bf69-ee91cee6d2e9" />
+
+[thenoodleincident.com/tutorials/box_lesson/workarounds.html](https://www.thenoodleincident.com/tutorials/box_lesson/workarounds.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f1869a22-30a1-4abe-a7c2-5f7c208bd023" />
+
+
+
+[@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a7b2c8fa-5741-43e8-a532-0efe75971693" />
+
+
+## Drought Planning @CityOfLosANgeles
+
+[svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A339564318&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997" title="DJ Premier: New York Reality Check 101 (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier: New York Reality Check 101 (1997)</a></div>
+
+
+```
+
+<video controls width="400" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://archive.org/download/AnimalFarmMovie1954/Animal%20Farm%20Movie%20%281954%20Full%201080p%20HD%29.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+  
+</video>
+```
+
+<img  alt="GIOVANNI-outputFnWi8n7d" src="https://github.com/user-attachments/assets/8b17a81d-f7e1-4ac8-a8e1-3f09c396c64b" />
+
+<img   alt="GIOVANNI-output0k1Wzuxo" src="https://github.com/user-attachments/assets/f449d0c3-8646-4353-be89-e1a225ff63c6" />
+
+[@la-county-isd lavote.gov/home/voting-elections/current-elections/election-results/live-results](https://www.lavote.gov/home/voting-elections/current-elections/election-results/live-results)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0bac2b9c-5a8c-43c7-837f-7e9ad7d84b29" />
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+<img alt="S1A_IW_GRDH_1SDV_20260621T135231_20260621T135256_065068_08338E_78F1 @asfadmin @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/03a4c5b8-31a5-45eb-9098-ac2bdc022fb6" />
+
+<img  alt="S1D_IW_GRDH_1SDV_20260621T015735_20260621T015804_003328_005D61_858E @asfadmin @nasa-jpl @la-county-isd @cityoflosangeles" src="https://github.com/user-attachments/assets/2ba3d4c1-cafc-49fc-81ed-d32342b913c0" />
+
+
+@eu-cdse hi @salesforce @shopify [https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71556&lng=-118.17564&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18qRniPOk2A2sQDzGKQZjfGdEun0OmhIybbMnJHAXfwC%2Fqc3dgVdnoECMKPTxC1t2QLaucJCb69CKfKjHP9vzXaEZBWjTd8wlVtnCc54GZpAHDGd2pKLItz&datasetId=S2_L2A_CDAS&fromTime=2026-06-26T00%3A00%3A00.000Z&toTime=2026-06-26T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE @blackgirlscode](https://browser.dataspace.copernicus.eu/?zoom=13&lat=33.71556&lng=-118.17564&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18qRniPOk2A2sQDzGKQZjfGdEun0OmhIybbMnJHAXfwC%2Fqc3dgVdnoECMKPTxC1t2QLaucJCb69CKfKjHP9vzXaEZBWjTd8wlVtnCc54GZpAHDGd2pKLItz&datasetId=S2_L2A_CDAS&fromTime=2026-06-26T00%3A00%3A00.000Z&toTime=2026-06-26T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/48f73c7b-1198-4fa0-9bbb-1d6bc9d2f408" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ac9ff7bf-7ffe-4d1b-84c6-c3c40d4a9752" />
+
+
+# Trice
+@nasa-jpl @howard-university-web-services @nasa-pds 
+Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/)  @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+
+
+```
+Homework: Monitoring and Predicting Floods Using Earth Observations for Planning and Preparedness 
+This homework includes questions from all 3 parts of the training series. You might want to record your answers on a sheet of paper or word document before submitting them here. You will not be able to save your answers and return to complete this form at a later time.
+
+To receive a certificate of completion, you must have attended all 3 parts and have completed this homework by July 9, 2026. Once you submit the homework, you will receive an email with a copy of your responses.
+
+Once you click submit, you can click "View Score" to see how you did.
+```
+
+Accountant Latrice Fitzpatrick, the founder of Virtiserv, said she always suggests spending money in a way that can make more money. @nasa-pds @fbicyber @FEMA @commercegov 
+
+latest [wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/) 
+MArch 2022 [archive.org/web/20220302063450/https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/](https://web.archive.org/web/20220302063450/https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
+
+```
+Accountant Latrice Fitzpatrick, the founder of Virtiserv, said she always suggests spending money in a way that can make more money.
+
+“If you receive a $2,500 tax refund, take that and purchase a lawn mower. Cut grass as a side hustle. Charge $50 per yard and cut 50 yards every month for three months. You do that, then you just made $7,500 back on the $2,500 lawnmower,” she said.
+
+She said while it’s definitely important to save, she feels it’s more important to know how to flip or double your money.
+
+7 ways small-business owners can save on taxes in 2022
+Not everyone gets back thousands of dollars, though. Some people may get a return of a couple of hundred dollars or less. Both Taltoan and Fitzpatrick agree there are still ways to benefit.
+
+“You can pay off debt, any amount that can contribute to lowering your liabilities is beneficial,” Fitzpatrick said.
+
+“Prepare for the next year… Sit down and talk to your employer. Make sure your W-4 forms are filled out correctly, that you’re not over-claiming dependents, that you’re not under-claiming,” Taltoan said.
+
+Fitzpatrick said it’s also important to track where you spend your money throughout the year, especially if you’re a business owner.
+```
+
+@La-County-isd @cityoflosangeles  [_`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+[ecostress.jpl.nasa.gov/team @la-county-isd @nasa-openscapes @nasa-giss](https://ecostress.jpl.nasa.gov/team)
+[https://nasagrace.unl.edu/](https://nasagrace.unl.edu/)
+[https://grace.jpl.nasa.gov/applications/groundwater/](https://grace.jpl.nasa.gov/applications/groundwater/)
+[CA Drinking Water Watch - sdwis.waterboards.ca.gov @StateofCalifornia](https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=3407&tinwsys_st_code=CA&counter=0) // [JPL Annual Reports](https://www.jpl.nasa.gov/who-we-are/annual-reports/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+@esa
+- [https:// @nasa-pds @codepen .io/thakarashard/pen/EajrepQ](https://codepen.io/thakarashard/pen/EajrepQ)
+- [@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
+<img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
+
+
+<img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tl6DN51nwg?si=2gJKoCiGW-BAHuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
+[clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+# Create a URL to open a PDF file at a specific page
+[ @cityoflosangeles plz share @stateofcalifornia @nasa-jpl helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
+
+To target an HTML link to a specific page in a PDF file, add **`#page=[page number]`** to the end of the link URL.
+
+For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
+
+```html
+<A HREF="http://www.example.com/myfile.pdf#page=4">
+```
+
+<img  alt="Open a PDF file to a specific page" src="https://github.com/user-attachments/assets/377db953-a778-498b-bac6-c457e6b3b262" />
+
+
+@nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
+<img  alt="image" src="https://github.com/user-attachments/assets/7183a46a-806e-4d7e-ab42-a2f5c14ec47c" />
+
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 06-20-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V jun19-hotfix-1 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @nasa-pds @nasa-openscapes
+ @la-county-isd @emit-sds @blackgirlscode @virtiserv
+```
+![@nasa-jpl @nasa-pds @doug-newman-nasa @nasa-openscapes @USSF-ORBiT](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
+
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012501_1590_ESP_092215_1590/ESP_012501_1590_ESP_092215_1590_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012501_1590_ESP_092215_1590/ESP_012501_1590_ESP_092215_1590_RED.thumb.png) 
+
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012501_1590_ESP_092215_1590/ESP_012501_1590_ESP_092215_1590_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012501_1590_ESP_092215_1590/ESP_012501_1590_ESP_092215_1590_RED.browse.png)
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012548_1980_ESP_013049_1980/ESP_012548_1980_ESP_013049_1980_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012548_1980_ESP_013049_1980/ESP_012548_1980_ESP_013049_1980_RED.browse.png)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012548_1980_ESP_013049_1980/ESP_012548_1980_ESP_013049_1980_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012548_1980_ESP_013049_1980/ESP_012548_1980_ESP_013049_1980_RED.thumb.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5e8bdd8e-1163-431b-9d34-65edae387e6e" />
+
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012551_1750_ESP_012841_1750/ESP_012551_1750_ESP_012841_1750_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012551_1750_ESP_012841_1750/ESP_012551_1750_ESP_012841_1750_RED.browse.png)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012551_1750_ESP_012841_1750/ESP_012551_1750_ESP_012841_1750_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012551_1750_ESP_012841_1750/ESP_012551_1750_ESP_012841_1750_RED.thumb.png)
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012552_1220_ESP_012486_1220/ESP_012552_1220_ESP_012486_1220_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012552_1220_ESP_012486_1220/ESP_012552_1220_ESP_012486_1220_RED.thumb.png) 
+
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012572_1685_ESP_012361_1685/ESP_012572_1685_ESP_012361_1685_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012572_1685_ESP_012361_1685/ESP_012572_1685_ESP_012361_1685_RED.browse.png)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092624_2220/ESP_092624_2220_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092624_2220/ESP_092624_2220_MIRB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092680_1975/ESP_092680_1975_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092680_1975/ESP_092680_1975_MRGB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092676_1930/ESP_092676_1930_MRGB.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092676_1930/ESP_092676_1930_MRGB.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092676_1930/ESP_092676_1930_RED.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092676_1930/ESP_092676_1930_RED.abrowse.jpg) 
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092691_1240/ESP_092691_1240_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092691_1240/ESP_092691_1240_MIRB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092689_1440/ESP_092689_1440_MIRB.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092689_1440/ESP_092689_1440_MIRB.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092618_1420/ESP_092618_1420_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092618_1420/ESP_092618_1420_RED.NOMAP.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092618_1420/ESP_092618_1420_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092618_1420/ESP_092618_1420_MIRB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RED.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RED.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RGB.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RGB.NOMAP.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_MRGB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_RED.NOMAP.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_MIRB.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_MIRB.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_IRB.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092605_1705/ESP_092605_1705_IRB.NOMAP.browse.jpg)
+
+![@nasa-pds https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092610_1995/ESP_092610_1995_RGB.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092610_1995/ESP_092610_1995_RGB.NOMAP.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092610_1995/ESP_092610_1995_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092610_1995/ESP_092610_1995_RED.NOMAP.browse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_MIRB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_MIRB.abrowse.jpg)
+
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_MRGB.abrowse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_MRGB.abrowse.jpg)
+
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_RED.NOMAP.browse.jpg](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_092600_092699/ESP_092697_1395/ESP_092697_1395_RED.NOMAP.browse.jpg) 
+
+[https://vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+[https://vsco.co/earthdatarashard/gallery](https://vsco.co/earthdatarashard/gallery)
+
+[<video controls width="100%" height="auto" src="https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4" />](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/000VSCOOVERViewRecording2026-06-09161554.mp4)
+
+<img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
+ /> _The Living Bible_
+**13** Obey the government, for God is the one who has put it there. There is no government anywhere that God has not placed in power. 2 So those who refuse to obey the laws of the land are refusing to obey God  , and punishment will follow. 3 For the policeman does not frighten people who are doing right; but those doing evil will always fear him. So if you don’t want to be afraid, keep the laws and you will get along well. 4 The policeman is sent by God to help you. But if you are doing something wrong, of course you should be afraid, for he will have you punished. He is sent by God for that very purpose. 5 Obey the laws, then, for two reasons: first, to keep from being punished, and second, just because you know you should.
+
+6 Pay your taxes too, for these same two reasons. For government workers need to be paid so that they can keep on doing God’s work, serving you. 7 Pay everyone whatever he ought to have: pay your taxes and import duties gladly, obey those over you, and give honor and respect to all those to whom it is due.
+
+8 Pay all your debts except the debt of love for others—never finish paying that! For if you love them, you will be obeying all of God’s laws, fulfilling all his requirements. 9 If you love your neighbor as much as you love yourself you will not want to harm or cheat him, or kill him or steal from him. And you won’t sin with his wife or want what is his, or do anything else the Ten Commandments say is wrong. All ten are wrapped up in this one, to love your neighbor as you love yourself. 10 Love does no wrong to anyone. That’s why it fully satisfies all of God’s requirements. It is the only law you need.
+
+11 Another reason for right living is this: you know how late it is; time is running out. Wake up, for the coming of the Lord is nearer now than when we first believed. 12-13 The night is far gone, the day of his return[a] will soon be here. So quit the evil deeds of darkness and put on the armor of right living, as we who live in the daylight should! Be decent and true in everything you do so that all can approve your behavior. Don’t spend your time in wild parties and getting drunk or in adultery and lust or fighting or jealousy. 14 But ask the Lord Jesus Christ to help you live as you should, and don’t make plans to enjoy evil.
+
+<img  alt="image-1" src="https://github.com/user-attachments/assets/79bb417c-e119-4ac4-ba32-fda37a1ee95c" />
+
+
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+```html
+_la92_ _@natgeosociety_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d8ad8e11-8d3e-4d55-8da2-f29d8f02d543" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cb5027a8-b194-43b5-9496-97d73e18d1d8" />
+
+
+pete someone hurting me over mentioning @deptofwar im supposed to its mars!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @la-county-isd!!!!!!!!!!!!!!!!! [https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+[sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/](https://sscspace.com/services/satellite-ground-stations/our-stations/santiago-station/)
+[@whitehouse @howard-university-web-services @nasa-jpl + `JOSeMPiofMORiE https://descanso.jpl.nasa.gov/](https://descanso.jpl.nasa.gov/) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9fdb17bd-b1f1-43e6-9cf9-64ccea096e36" />
+
+
+[descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf @whitehouse @la-county-isd](https://descanso.jpl.nasa.gov/dsn50th/DSN_Symposium_2-20-14/5_GDSCC.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c0c6af0e-4a6f-47d7-b7e0-e6265e222d97" />
+
+
+[www.gdscc.nasa.gov DSS24  ](www.gdscc.nasa.gov ) // [https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html](https://deepimpact.astro.umd.edu/tech/dsn-trip/target38.html) + [WHOLETRiP](https://deepimpact.astro.umd.edu/tech/dsn-trip/index.html) @blackgirlscode @cbs-news-data @newshour 
+
+@nasa-pds @ucla i cannot reach goldstone from longbeach ill run a few traces 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e6f2792f-522e-4e12-89a8-3157374c6292" />
+
+
+[@deptofwar @fbicyber eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/45283e20-c7c2-4316-96e4-d4531d52c8d1" />
+
+```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jmfg7KVy7P0?si=KMT1LogEpatOyRZe" title="YouTube video player @blackgirlscode @la-county-isd @deptofwar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+# CRS-[34](https://www.sccpss.com/board/board-members/district-1)
+ [@spaceexplorationtechnologies x.com/i/broadcasts/1DxleEdlAQjKL @twitter](x.com/i/broadcasts/1DxleEdlAQjKL)
+
+ [@la-county-isd](https://www.reddit.com/r/hiphopheads/comments/1tdwz4m/removed_by_moderator/) if that tall lighskin girl is latrice [facebook.com/thevirtiservway/ @deptofwar ](https://www.facebook.com/thevirtiservway/) from church and i know nothing bc @nbcnews know if my family with bet [NAS @dhs-gov @nasa-jpl @blackgirlscode](https://www.nbc.com/the-tonight-show/guests/nas-amp-az/c30a89b79dd21b915b09ba53e744a9e7513228d4) got the real story @doug-newman-nasa 
+
+
+ ```
+SPACECRAFT
+NAME
+Psyche
+
+RANGE
+332.00 million km
+
+ROUND-TRIP LIGHT TIME
+-
+
+ANTENNA
+NAME
+DSS 24
+
+ACTIVITY
+Spacecraft Telemetry, Tracking, and Command
+
+AZIMUTH
+223 deg
+
+ELEVATION
+58 deg
+
+WIND SPEED
+8 km/hr
+
+MODE
+-
+
+UP SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+POWER TRANSMITTED
+18 kW
+
+DOWN SIGNAL
+SOURCE
+PSYCHE
+
+FREQUENCY BAND
+X
+
+DATA RATE
+0.000 b/sec
+
+POWER RECEIVED
+-160 dBm
+(1.0 x 10-22 kW)
+```
+@whitehouse @nasa-pds look [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @cbs-news-data 
+
+<img   alt="@nasa-jpl @voyager-tech-inc " src="https://github.com/user-attachments/assets/3401947a-161a-471c-8826-0a29aac23a30" />
+
+ @blackgirlscode @whitehouse LATRiCE we are getting data ffrom psyche! [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan) out in [goldstone @cityoflosangeles @stateofcalifornia Signal accquired @blackgirlscode @howard-university-web-services](https://www.gdscc.nasa.gov/) @longbeachinnovationteam @voyager-tech-inc @deptofwar
+ 
+ <img alt="image" src="https://github.com/user-attachments/assets/d8133b1b-4c4c-4d6c-8ac3-e3f6d1e68b4a" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+
+@la-county-isd GoodMorning Mrs Mitchell... im working on the crew resupply weather @cityoflosangeles i got poisoned in my elbow last night, check on the people in the park non criminally and let them know i would like to sleep there again and if they have any leads help us out @nasa-jpl because our maps are done and we can reaccount Altadena Real Estate and get people housed @StateOfCalifornia @blackgirlscode @cbs-news-data i accept chole if shit ran its course but i need to find out who latrice fitzpatrick is in this hour and if she is healthy @howard-university-web-services @doug-newman-nasa  ///////// @nasa-pds i have to check on the mars flyby should i have gone to the lab or is it still to dark post covid hostrolls @blackgirlscode and repartnering ? 
+
+[https://youtu.be/ajyGDFcC05Y @newshour the california @spaceexplorationtechnologies starlink launch got pushed back @blackgirlscode](https://youtu.be/ajyGDFcC05Y) /// [https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html](https://45thweathersquadron.nebula.spaceforce.mil/pages/launchForecastSupport.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5182a10b-661e-4807-ac68-b4cfd7269479" />
+
+
+[_Falcon 9_ Crew Dragon `Launch Weather Criteria` .pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf) 
+
+@KSP-RO 
+
+[GiF - FiRETEMP - CLiCKHERE @whitehouse](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/taw/FireTemperature/GOES19-TAW-FireTemperature-900x540.gif)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/38f50d79-a693-4703-bc64-abafc04dce40" />
+
+![@nasa-pds for pyche ESP_091995_1705_RED.browse.png @blackgirlscode https://dentistry.howard.edu/about/faculty-staff](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_092200_092299/ESP_092272_1705_ESP_091995_1705/ESP_092272_1705_ESP_091995_1705_RED.browse.png) 
+@howard-university-web-services [https://dentistry.howard.edu/about/faculty-staff](https://dentistry.howard.edu/about/faculty-staff)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/771df3b5-c6d4-4854-84f5-a4d8b4cf0d81" />
 
 [https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trump-oval-office](https://www.cnn.com/2026/04/29/politics/astronauts-artemis-iran-trump-oval-office) 
 
